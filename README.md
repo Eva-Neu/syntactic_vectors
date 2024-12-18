@@ -1,4 +1,4 @@
-# Computing syntactic position vectors 
+## Computing syntactic position vectors 
 
 Eva Neu (UMass Amherst), Maayan Keshev (The Hebrew University of Jerusalem) and Brian Dillon (UMass Amherst)
 
